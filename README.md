@@ -1,4 +1,4 @@
-# NETWORKWALKS-B082-WK1-CYBERSECURITY-LAB-SETUP
+# NETWORKWALKS-B083F-WK1-CYBERSECURITY-LAB-SETUP
 This is Cybersecurity Lab environment setup using  Oracle VirtualBox ,Kali Linux and And Network configuration
 In this lab the purpose is to create a environment that is controlled with cybersecurity tools,  reconnaissance, vulnerability assessme,ntnetwork scanning, and other security-testing activities can be performed safely and repeatedly.
 # NETWORKWALKS-B082-WK1-CYBERSECURITY-LAB-SETUP
